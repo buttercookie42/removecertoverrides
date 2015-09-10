@@ -1,0 +1,13 @@
+{
+  "title": "Remove Certificate Overrides",
+  "name": "removecertoverrides",
+  "version": "0.1.0",
+  "description": "Adds an option to remove all certificate overrides from Firefox for Android.",
+  "main": "lib/main.js",
+  "author": "jh+mozilla-addons@buttercookie.de",
+  "id": "removecertoverrides@buttercookie.de",
+  "engines": {
+    "fennec": ">=38.0a1 <=43.0a1"
+  },
+  "license": "MPL 2.0"
+}

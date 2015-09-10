@@ -1,0 +1,18 @@
+# Ignore this file
+.jpmignore
+
+# Ignore git directory
+.git/
+
+# Ignore any zip or xpi files
+*.zip
+*.xpi
+
+# Ignore graphics source files
+*.pld
+*.plb
+icon64.png
+
+# Ignore documentation
+doc/
+*.md
