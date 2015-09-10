@@ -1,0 +1,4 @@
+This add-on is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+nativewindow.js code based on Jeff Griffiths's implementation of Fennec+ (https://github.com/canuckistani/fennec-plus)
+ideas on how to remove a file from mfinkle's Mobile Profiles (https://addons.mozilla.org/de/android/addon/mobile-profiles/)
