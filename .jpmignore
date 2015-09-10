@@ -13,6 +13,7 @@
 *.pld
 *.plb
 *.svg
+screenshot*.png
 eraser.png
 
 # Ignore documentation
