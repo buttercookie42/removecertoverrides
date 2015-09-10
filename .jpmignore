@@ -1,8 +1,9 @@
 # Ignore this file
 .jpmignore
 
-# Ignore git directory
+# Ignore git data
 .git/
+.gitignore
 
 # Ignore any zip or xpi files
 *.zip
@@ -11,7 +12,8 @@
 # Ignore graphics source files
 *.pld
 *.plb
-icon64.png
+*.svg
+eraser.png
 
 # Ignore documentation
 doc/
