@@ -1,2 +1,6 @@
 # Thumbnail file of my graphics program
 browse.plb
+
+# The compiled add-on
+*.xpi
+*
